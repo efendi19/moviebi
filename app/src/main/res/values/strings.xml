@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <!--TODO: - Setup API KEY in gradle
+              - Import plugin 'kotlin-parcelize' in gradle
+              - Add ViewBinding in gradle
+              - Add MovieModel
+              - Add fragment_movie
+              - Add item_movie -->
+</resources>
